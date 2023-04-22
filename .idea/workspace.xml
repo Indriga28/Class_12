@@ -4,15 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a2d9c2a-3d90-460e-8f32-2f9914a95261" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Class_12.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework_12/Author.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework_12/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework_12/Main.java" afterDir="false" />
+    <list default="true" id="0a2d9c2a-3d90-460e-8f32-2f9914a95261" name="Changes" comment="Homework done">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework_12/Author.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework_12/Author.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework_12/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework_12/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework_12/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework_12/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +25,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="Homework_12" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -66,7 +62,7 @@
       <option name="presentableId" value="Default" />
       <updated>1682010405648</updated>
       <workItem from="1682010406947" duration="5753000" />
-      <workItem from="1682161524668" duration="2981000" />
+      <workItem from="1682161524668" duration="4065000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1682010611318</created>
@@ -75,7 +71,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682010611318</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Homework done">
+      <created>1682189089810</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1682189089810</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -83,6 +86,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="Homework done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework done" />
   </component>
 </project>

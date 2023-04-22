@@ -13,6 +13,7 @@ public class Main {
         System.out.println("Fedor.firstName " + Fedor.getFirstName() + " Fedor.lastname " + Fedor.getLastName());
         System.out.println("Книга: " + warAndPeace.getNameOfBook() + ", год " + warAndPeace.getYear() + ", " + warAndPeace.getAuthor());
         System.out.println("Книга: " + demons.getNameOfBook() + ", год " + demons.getYear() + ", " + demons.getAuthor());
+        System.out.println(demons);
 
     }
 }
